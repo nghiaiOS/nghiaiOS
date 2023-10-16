@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing iOS applications
 - 🌱 I’m currently learning Swift/SwiftUI
 - 💞️ I’m looking to collaborate on everything
-- 📫 Contact: nghiaiosdev09@gmail.com
+- 📫 Contact: nghiaiosdev09@gmail.com | 
 
 <!---
 nghiaiOS/nghiaiOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
