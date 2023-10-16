@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nghiaiOS
+- 👋 Hi, I’m @nghiaiOS | in Vietnam
 - 👀 I’m interested in developing iOS applications
 - 🌱 I’m currently learning Swift/SwiftUI
 - 💞️ I’m looking to collaborate on everything
